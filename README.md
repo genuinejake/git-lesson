@@ -1,4 +1,4 @@
 git-lesson
 ==========
 
-add somethin
+add something else
